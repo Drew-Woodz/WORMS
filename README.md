@@ -55,6 +55,6 @@ Use the threshold slider to increase or decrease the intensities of the selected
 
 **Troubleshooting Tips:** If you encounter any issues, we recommend restarting the application with a clean MATLAB workspace. This resolves 99% of common issues.
 
-**Contact Information:** For support or feedback, please contact the author at: andrew.lockwood578@myci.csuci.edu
+**Contact Information:** For support or feedback, please contact the author at: andrew.lockwood578@myci.csuci.edu andrewllockwood@gmail.com
 
 **Acknowledgments:** Special thanks to Dr. Brian Rasnow for endless technical guidance and invaluable support in developing this application. Additionally, we appreciate Dr. Willaim Barber's insights into digital image processing and his significant contributions to the motion correction methodology.
